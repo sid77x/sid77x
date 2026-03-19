@@ -25,7 +25,7 @@
 ```python
 class Sid:
     def __init__(self):
-        self.name      = "Siddharth"
+        self.name      = "Siddhant Chutke"
         self.handle    = "sid77x"
         self.location  = "India 🇮🇳"
         self.languages = ["Python", "TypeScript", "Java", "C++"]
