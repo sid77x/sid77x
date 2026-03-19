@@ -141,13 +141,7 @@ me = Siddhant()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid77x&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=1a1a6e&point=00d4ff" width="100%" />
 </div>
 
----
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sid77x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-</div>
 
 ---
 
@@ -159,7 +153,7 @@ me = Siddhant()
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/siddhantchutke)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sid77x)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a2e?style=for-the-badge&logo=About.me&logoColor=00d4ff)](https://github.com/sid77x/portfolio)
-[![Email](https://img.shields.io/badge/sid77x@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sid77x@gmail.com)
+[![Email](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sid77x@gmail.com)
 
 </div>
 
