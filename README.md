@@ -3,7 +3,7 @@
 <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a2e,70:0d1b4b,100:1a1a6e&height=220&section=header&text=hey%20i'm%20sid&fontSize=72&fontColor=00d4ff&fontAlignY=38&desc=Building%20Intelligence%2C%20One%20Model%20at%20a%20Time&descAlignY=60&descSize=17&animation=fadeIn&fontAlign=50" width="100%" />
 
-<!-- Typing SVG -->
+<!-- Typing SVG --> 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%F0%9F%A7%A0;Deep+Learning+%7C+Neural+Networks+%F0%9F%94%AC;AI-Powered+Application+Developer+%E2%9A%A1;Big+Data+%7C+Distributed+Systems+%F0%9F%93%A1;Open+Source+Contributor+%F0%9F%94%93" alt="Typing SVG" />
 </a>
