@@ -152,7 +152,7 @@ me = Siddhant()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sid77x)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/siddhantchutke)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sid77x)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a2e?style=for-the-badge&logo=About.me&logoColor=00d4ff)](https://github.com/sid77x/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a2e?style=for-the-badge&logo=About.me&logoColor=00d4ff)](https://siddhantchutke.vercel.app/)
 [![Email](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sid77x@gmail.com)
 
 </div>
